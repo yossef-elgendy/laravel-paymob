@@ -21,7 +21,7 @@ return [
     | PayMob username and password
     |--------------------------------------------------------------------------
     |
-    | This is your PayMob username and password to make auth request.
+    | This is your PayMob api_key auth request.
     |
     */
 
